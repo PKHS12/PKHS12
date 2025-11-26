@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning **AI/ML free course from SLIIT, Moratuwa campus free IT course**
 
 - 📫 How to reach me **khspoojani12@gmail.com**
-
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
